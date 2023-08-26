@@ -1,0 +1,84 @@
+.bg-width{
+	height: 300px;
+}
+.bg-orange{
+	background-color: #faaa75;
+}
+.search{
+	background-color: #dfa077;
+}
+.custom-srch{
+	width: 50%;
+	margin: auto;
+}
+.button-about{
+	padding: 5px;
+	background-color: transparent;
+	border-color: transparent;
+	border-radius: 0px 8px 8px 0px;
+}
+.button-about:hover{
+	border: 2px solid  #faaa75;
+	transition: 0.1s;
+	color: black;
+	padding-right: 8px;
+}
+.about-image{
+	font-size: 200px;
+	color:  #faaa75;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.custom-color-about{
+	background-color: #f1f3f4;
+}
+.custom-service-images{
+	color: #faaa75;
+	font-size: 35px;
+	margin-left: 65px;
+}
+.custom-services-text{
+	margin-left: 62px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.custom-services{
+	margin-left: 100px;
+}
+.bg-contact{
+	background-color: #f1f3f4;
+}
+.pricing-border{
+	border-right: 2px solid #faaa75;
+	border-left: transparent;
+	border-top: transparent;
+	border-bottom: transparent;
+}
+.bg-pricing-orange{
+	background-color: #faaa75;
+	border: transparent;
+	transition: 0.3s;
+	padding: 5px 8px;
+}
+.bg-pricing-orange:hover{
+	background-color: #f1f3f4;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	color: #000000;
+	padding: 5px 10px;
+}
+.button-contact{
+	border: 1px solid grey;
+	padding: 3px 10px;
+}
+.footer-link{
+	text-decoration: none;
+}
+.footer-arrow{
+	color: #faaa75;
+}
+.custom-carousel{
+	height: 500px;
+	width: 100%;
+}
+
